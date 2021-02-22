@@ -1,4 +1,4 @@
-### Hi there 👋
+## <img alt="cover-github" src="https://github.com/bukanspot/bukanspot/blob/main/spot.png">
 
 <!--
 **bukanspot/bukanspot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
