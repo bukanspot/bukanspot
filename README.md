@@ -6,7 +6,7 @@
   <a href="http://tracert.id/comingsoon">
     <img src="https://github.com/bukanspot/bukanspot/blob/main/repair.png" width="12%" hspace="1%">
   </a>
-  <a href="http://tracert.id/comingsoon">
+  <a href="http://tracert.id/network">
     <img src="https://github.com/bukanspot/bukanspot/blob/main/network.png" width="12%" hspace="1%">
   </a>
   <a href="http://tracert.id/comingsoon">
