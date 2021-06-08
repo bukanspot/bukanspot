@@ -17,7 +17,7 @@
   </a>
 </p>
 <details>
-  <summary></summary>
+  <summary align="center"></summary>
   <div align="center">
     <p>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bukanspot&locale=en&layout=compact&theme=dracula" height="170" />
