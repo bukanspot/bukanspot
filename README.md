@@ -20,10 +20,10 @@
   <summary></summary>
   <div align="center">
     <p>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bukanspot&locale=en&layout=compact&theme=dracula" width="410"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bukanspot&locale=en&layout=compact&theme=dracula" />
     </p>
     <p>
-      <img align="right" src="https://github-readme-stats.vercel.app/api?username=bukanspot&show_icons=true&theme=dracula&locale=en" width="490" />
+      <img align="right" src="https://github-readme-stats.vercel.app/api?username=bukanspot&show_icons=true&theme=dracula&locale=en" width="410" />
     </p>
   </div>
 </details>
