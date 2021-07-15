@@ -1,4 +1,4 @@
-## <a href="http://spot.tracert.id"><img alt="cover-github" src="https://github.com/bukanspot/bukanspot/blob/main/spot.png"></a>
+## <a href="http://spot.tracert.id"><img alt="cover-github" src="https://github.com/bukanspot/bukanspot/blob/main/images/spot.png"></a>
 <p align="center">
   <a href="http://tracert.id/comingsoon">
     <img src="https://github.com/bukanspot/bukanspot/blob/main/images/store.png" width="12%" hspace="1%">
