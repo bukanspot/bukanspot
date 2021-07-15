@@ -1,7 +1,7 @@
 ## <a href="http://spot.tracert.id"><img alt="cover-github" src="https://github.com/bukanspot/bukanspot/blob/main/spot.png"></a>
 <p align="center">
   <a href="http://tracert.id/comingsoon">
-    <img src="https://github.com/bukanspot/bukanspot/blob/main/store.png" width="12%" hspace="1%">
+    <img src="https://github.com/bukanspot/bukanspot/blob/main/blob/store.png" width="12%" hspace="1%">
   </a>
   <a href="http://tracert.id/repair">
     <img src="https://github.com/bukanspot/bukanspot/blob/main/repair.png" width="12%" hspace="1%">
