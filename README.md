@@ -12,7 +12,7 @@
   <a href="http://tracert.id/monitor">
     <img src="https://github.com/bukanspot/bukanspot/blob/main/images/monitor.png" width="12%" hspace="1%">
   </a>
-  <a href="http://blog.spot.tracert.id">
+  <a href="https://dev.to/bukanspot">
     <img src="https://github.com/bukanspot/bukanspot/blob/main/images/blogs.png" width="12%" hspace="1%">
   </a>
 </p>
