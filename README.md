@@ -1,12 +1,31 @@
 ## <a href="http://spot.tracert.id"><img alt="cover-github" src="https://github.com/bukanspot/bukanspot/blob/main/images/spot.png"></a>
+<p align="center">
+  <a href = "https://www.linkedin.com/in/bukanspot/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" /></a>
+  <a href = "https://dev.to/bukanspot"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" /></a>
+  <a href = "https://bukanspot.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-FF5722?logo=Blogger&logoColor=white&style=for-the-badge" /></a>
+  <a href = "https://medium.com/@bukanspot"><img src="https://img.shields.io/badge/-Medium-000000?logo=Medium&logoColor=white&style=for-the-badge" /></a>
+  <a href = "https://www.instagram.com/bukanspot/"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
+  
+---
+
 <div align="center">
   <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bukanspot&locale=en&layout=compact&theme=prussian" height="170" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bukanspot&show_icons=true&theme=prussian&locale=en" height="170" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bukanspot" height="170" />
   </p>
 </div>
 
 ---
+
+<!--
+<div align="center">
+  <p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bukanspot&locale=en&layout=compact&theme=graywhite" height="170" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bukanspot&show_icons=true&theme=graywhite&locale=en" height="170" />
+  </p>
+</div>
+
+---
+-->
 
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" />
