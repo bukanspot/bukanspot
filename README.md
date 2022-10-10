@@ -4,13 +4,13 @@
   <a href = "https://bukanspot.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-FF5722?logo=Blogger&logoColor=white&style=for-the-badge" /></a>
   <a href = "https://www.linkedin.com/in/bukanspot/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" /></a>
   <a href = "https://www.reddit.com/user/bukanspot"><img src="https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white&style=for-the-badge" /></a>
-  <a href = "https://medium.com/@bukanspot"><img src="https://img.shields.io/badge/-Medium-000000?logo=Medium&logoColor=white&style=for-the-badge" /></a>
+  <a href = "https://bukanspot.medium.com"><img src="https://img.shields.io/badge/-Medium-000000?logo=Medium&logoColor=white&style=for-the-badge" /></a>
   
 ---
 
 <div align="center">
   <p>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bukanspot" height="170" />
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=bukanspot&theme=highcontrast&hide_border=false&border_radius=20" />
   </p>
 </div>
 
