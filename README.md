@@ -1,4 +1,13 @@
 ## <a href="http://spot.tracert.id"><img alt="cover-github" src="https://github.com/bukanspot/bukanspot/blob/main/images/spot.png"></a>
+<div align="center">
+  <p>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bukanspot&locale=en&layout=compact&theme=prussian" height="170" />
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bukanspot&show_icons=true&theme=prussian&locale=en" height="170" />
+  </p>
+</div>
+
+---
+
 <p align="center">
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=for-the-badge" />
   <img alt="Debian" src="https://img.shields.io/badge/-Debian-A81D33?logo=Debian&logoColor=white&style=for-the-badge" />
@@ -37,12 +46,3 @@
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" />
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?logo=Trello&logoColor=white&style=for-the-badge" />
 </p>
-
----
-
-<div align="center">
-  <p>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bukanspot&locale=en&layout=compact&theme=prussian" height="170" />
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=bukanspot&show_icons=true&theme=prussian&locale=en" height="170" />
-  </p>
-</div>
