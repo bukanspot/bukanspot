@@ -1,10 +1,10 @@
 ## <a href="http://spot.tracert.id"><img alt="cover-github" src="https://github.com/bukanspot/bukanspot/blob/main/images/spot.png"></a>
 <p align="center">
-  <a href = "https://www.linkedin.com/in/bukanspot/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" /></a>
   <a href = "https://dev.to/bukanspot"><img src="https://img.shields.io/badge/-dev.to-0A0A0A?logo=dev.to&logoColor=white&style=for-the-badge" /></a>
   <a href = "https://bukanspot.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-FF5722?logo=Blogger&logoColor=white&style=for-the-badge" /></a>
+  <a href = "https://www.linkedin.com/in/bukanspot/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&style=for-the-badge" /></a>
+  <a href = "https://www.reddit.com/user/bukanspot"><img src="https://img.shields.io/badge/-Reddit-FF4500?logo=Reddit&logoColor=white&style=for-the-badge" /></a>
   <a href = "https://medium.com/@bukanspot"><img src="https://img.shields.io/badge/-Medium-000000?logo=Medium&logoColor=white&style=for-the-badge" /></a>
-  <a href = "https://www.instagram.com/bukanspot/"><img src="https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=for-the-badge" /></a>
   
 ---
 
