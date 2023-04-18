@@ -38,14 +38,6 @@
   <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-51A2DA?logo=Fedora&logoColor=white&style=for-the-badge" />
   <img alt="Red Hat" src="https://img.shields.io/badge/-Red%20Hat-EE0000?logo=Red%20Hat&logoColor=white&style=for-the-badge" />
   
-  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />
-  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazon%20AWS&logoColor=white&style=for-the-badge" />
-  <img alt="Amazon EC2" src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?logo=Amazon%20EC2&logoColor=white&style=for-the-badge" />
-  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=Google%20Cloud&logoColor=white&style=for-the-badge" />
-  <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?logo=Cisco&logoColor=white&style=for-the-badge" />
-  <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?logo=Wireshark&logoColor=white&style=for-the-badge" />
-  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
-  
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white&style=for-the-badge" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" />
@@ -57,11 +49,25 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?logo=MariaDB&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
-  
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge" />
+  
+  <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />
+  <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazon%20AWS&logoColor=white&style=for-the-badge" />
+  <img alt="Amazon EC2" src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?logo=Amazon%20EC2&logoColor=white&style=for-the-badge" />
+  <img alt="Google Cloud" src="https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=Google%20Cloud&logoColor=white&style=for-the-badge" />
+  <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?logo=Cisco&logoColor=white&style=for-the-badge" />
+  <img alt="Apache" src="https://img.shields.io/badge/-Apache-EE0000?logo=apache&logoColor=white&style=for-the-badge" />
+  <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />
+  
+  <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
+  <img alt="Android Studio" src="https://img.shields.io/badge/-Android Studio-3DDC84?logo=androidstudio&logoColor=white&style=for-the-badge" />
+  <img alt="VirtualBox" src="https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=for-the-badge" />
+  <img alt="VMware" src="https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white&style=for-the-badge" />
+  <img alt="Wireshark" src="https://img.shields.io/badge/-Wireshark-1679A7?logo=Wireshark&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=white&style=for-the-badge" />
   <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=GitHub&logoColor=white&style=for-the-badge" />
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?logo=Trello&logoColor=white&style=for-the-badge" />
+  <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" />
 </p>
