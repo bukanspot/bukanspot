@@ -65,3 +65,10 @@
   <img alt="Trello" src="https://img.shields.io/badge/-Trello-0052CC?logo=Trello&logoColor=white&style=for-the-badge" />
   <img alt="Blender" src="https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white&style=for-the-badge" />
 </p>
+
+---
+
+<p align="center">
+  <a href = "https://paypal.me/bukanspot"><img src="https://img.shields.io/badge/-PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge" /></a>
+  <a href = "https://bmc.link/bukanspot"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee&logoColor=white&style=for-the-badge" /></a>
+</p>
