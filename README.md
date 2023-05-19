@@ -69,6 +69,5 @@
 ---
 
 <p align="center">
-  <a href = "https://paypal.me/bukanspot"><img src="https://img.shields.io/badge/-PayPal-00457C?logo=paypal&logoColor=white&style=for-the-badge" /></a>
-  <a href = "https://bmc.link/bukanspot"><img src="https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FFDD00?logo=buymeacoffee&logoColor=white&style=for-the-badge" /></a>
+  <a href="https://www.buymeacoffee.com/bukanspot"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=bukanspot&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 </p>
