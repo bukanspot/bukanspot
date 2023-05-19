@@ -38,14 +38,14 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" />
   <img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white&style=for-the-badge" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" />
+  
+  <!-- Tools -->
   <img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?logo=MariaDB&logoColor=white&style=for-the-badge" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=Git&logoColor=white&style=for-the-badge" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" />
-  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" />
-  
-  <!-- Tools -->
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazon%20AWS&logoColor=white&style=for-the-badge" />
   <img alt="Amazon EC2" src="https://img.shields.io/badge/-Amazon%20EC2-FF9900?logo=Amazon%20EC2&logoColor=white&style=for-the-badge" />
@@ -53,6 +53,7 @@
   <img alt="Cisco" src="https://img.shields.io/badge/-Cisco-1BA0D7?logo=Cisco&logoColor=white&style=for-the-badge" />
   <img alt="Apache" src="https://img.shields.io/badge/-Apache-EE0000?logo=apache&logoColor=white&style=for-the-badge" />
   <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=white&style=for-the-badge" />
   
   <!-- Apps -->
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white&style=for-the-badge" />
