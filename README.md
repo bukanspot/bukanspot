@@ -29,7 +29,7 @@
   <a href = "https://twitter.com/search?q=%40bukanspot%20%23Fedora&src=typed_query"><img alt="Fedora" src="https://img.shields.io/badge/-Fedora-51A2DA?logo=Fedora&logoColor=white&style=for-the-badge" /></a>
   <a href = "https://twitter.com/search?q=%40bukanspot%20%23RedHat&src=typed_query"><img alt="Red Hat" src="https://img.shields.io/badge/-Red%20Hat-EE0000?logo=Red%20Hat&logoColor=white&style=for-the-badge" /></a> <!-- Language -->
   <a href = "https://twitter.com/search?q=%40bukanspot%20%23C&src=typed_query"><img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white&style=for-the-badge" /></a>
-  <a href = "https://twitter.com/search?q=%40bukanspot%20%23C++&src=typed_query"><img alt="C++" src="https://img.shields.io/badge/-C++-00599C?logo=c++&logoColor=white&style=for-the-badge" /></a>
+  <a href = "https://twitter.com/search?q=%40bukanspot%20%23C++&src=typed_query"><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /></a>
   <a href = "https://twitter.com/search?q=%40bukanspot%20%23HTML&src=typed_query"><img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?logo=HTML5&logoColor=white&style=for-the-badge" /></a>
   <a href = "https://twitter.com/search?q=%40bukanspot%20%23CSS&src=typed_query"><img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?logo=CSS3&logoColor=white&style=for-the-badge" /></a>
   <a href = "https://twitter.com/search?q=%40bukanspot%20%23JavaScript&src=typed_query"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge" /></a>
@@ -37,6 +37,7 @@
   <a href = "https://twitter.com/search?q=%40bukanspot%20%23Python&src=typed_query"><img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white&style=for-the-badge" /></a>
   <a href = "https://twitter.com/search?q=%40bukanspot%20%23Markdown&src=typed_query"><img alt="Markdown" src="https://img.shields.io/badge/-Markdown-000000?logo=Markdown&logoColor=white&style=for-the-badge" /></a>
   <a href = "https://twitter.com/search?q=%40bukanspot%20%23MySQL&src=typed_query"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=white&style=for-the-badge" /></a>
+  <a href = "https://twitter.com/search?q=%40bukanspot%20%23SQLite&src=typed_query"><img alt="SQLite" src="https://img.shields.io/badge/-SQLite-003B57?logo=SQLite&logoColor=white&style=for-the-badge" /></a>
   <a href = "https://twitter.com/search?q=%40bukanspot%20%23Kotlin&src=typed_query"><img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-7F52FF?logo=kotlin&logoColor=white&style=for-the-badge" /></a><!-- Tools -->
   <a href = "https://twitter.com/search?q=%40bukanspot%20%23MariaDB&src=typed_query"><img alt="MariaDB" src="https://img.shields.io/badge/-MariaDB-003545?logo=MariaDB&logoColor=white&style=for-the-badge" /></a>
   <a href = "https://twitter.com/search?q=%40bukanspot%20%23MongoDB&src=typed_query"><img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge" /></a>
